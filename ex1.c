@@ -9,6 +9,5 @@ int main() {
    } else {
     printf("Sorry, u couldn't guess it\n");
    }
-
   return 0;
 }
